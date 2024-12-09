@@ -1,4 +1,6 @@
-class Solution {
+package leetcode;
+
+class Hammingweight {
     public int hammingWeight(int n) {
         int count = 0;
         while(n != 0){
