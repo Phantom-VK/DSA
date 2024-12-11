@@ -1,5 +1,7 @@
+package leetcode;
+
 //https://leetcode.com/problems/string-to-integer-atoi/
-class Solution {
+class String_to_Integer {
     public int myAtoi(String s) {
         int result = 0;
         boolean isNegative = false;
