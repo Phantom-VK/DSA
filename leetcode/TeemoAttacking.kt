@@ -1,7 +1,7 @@
 package leetcode
 
 //https://leetcode.com/problems/teemo-attacking/
-class Solution {
+class TeemoAttacking {
     fun findPoisonedDuration(timeSeries: IntArray, duration: Int): Int {
         if (timeSeries.isEmpty()) return 0
 
